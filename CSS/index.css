@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 20px;
+}
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+input[type="file"] {
+  margin-top: 10px;
+}
+input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+input[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+p {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  max-width: 600px; /* 追加：最大幅を600pxに設定 */
+  margin-left: auto; /* 追加：左右の余白を自動調整 */
+  margin-right: auto; 
+}
+strong {
+  color: #007bff;
+}
+img {
+  max-width: 100%;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  margin-left: 10px;
+}
+a:hover {
+  text-decoration: underline;
+}
