@@ -38,7 +38,7 @@
 3. 編集や削除も可能です。ですが、削除してもデータベースには残ります。
 
 ## スクリーンショット
-![image](https://github.com/user-attachments/assets/de5e55c7-0150-429c-80ad-8489d8a3f104)
+![image](https://github.com/user-attachments/assets/93e4122b-40e0-4322-ba8f-3307970f71bc)
 
 ## ライセンス
 このプロジェクトは個人の課題用に作成したものです。
